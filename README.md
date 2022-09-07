@@ -168,11 +168,11 @@ No known bugs exists within the program as of this writing.
 
 ## Authors
 
-Stephen Makenzi Waweru | [@stephenmakenziwaweru](https://github.com/StephenMakenziWaweru)
+Amanuel Fenta | [@Amanuel2000](https://github.com/Amanuel2000)
 
 
 
-Aloice Okoth | [@aloicerains](https://github.com/aloicerains)
+Ananaia Bahru | [@ananiabahru](https://github.com/ananiabahru)
 
 
 
